@@ -208,3 +208,4 @@ Thus, the SQL queries to implement DML commands have been executed successfully.
 
 ### Module 2 Result:
 <img width="1017" height="72" alt="image" src="https://github.com/user-attachments/assets/489d76be-07ac-443f-bec6-bdbda5a30bf4" />
+
